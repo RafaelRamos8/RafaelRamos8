@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Rafael Ramos
+# Bem-vindo ao meu GitHub! 🚀
 
-<!--
-**RafaelRamos8/RafaelRamos8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sou estudante de Ciência da Computação e desenvolvedor de software JavaScript, HTML, CSS e Java. Apaixonado por resolver problemas e construir soluções eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c)](https://skillicons.dev)
+
+## Estou Aprendendo 
+[![studies](https://skillicons.dev/icons?i=java,python,docker,kubernetes)](https://skillicons.dev)
+
+## Ferramentas
+[![Tools](https://skillicons.dev/icons?i=vscode,pycharm,eclipse,git,github,mysql,idea)](https://skillicons.dev)
+
+**Meus Interesses**  
+- Engenharia de Software  
+- Cloud 
+- IA 
+- Algoritmos e Estruturas de dados
+- Ciência de Dados
+
+# Contatos
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](linkedin.com/in/rafael-da-costa-ramos-594128191)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](rafahcosta1997@gmail.com)
+
+
